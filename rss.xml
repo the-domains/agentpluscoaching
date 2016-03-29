@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[AgentPlusCoaching]]></title>
         <description><![CDATA[AgentPlusCoaching]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/agentpluscoaching/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 22:08:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 21:55:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/agentpluscoaching/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2968fdaf-3d86-4bac-894b-173b29aa25a8.png">]]></description>
+            <link>https://thegrid.ai/agentpluscoaching/6cce059a-92cb-44e5-9450-69cc3411ed23/index.html</link>
+            <guid isPermaLink="false">6cce059a-92cb-44e5-9450-69cc3411ed23</guid>
+            <pubDate>Tue, 29 Mar 2016 21:55:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to Avoid the Income Roller Coaster]]></title>
             <description><![CDATA[<article><h1>How to Avoid the Income Roller Coaster</h1><p>Why is it that some agents seem to have discipline around the daily focus on lead generation for their businesses and yet, the majority of agents struggle with this practice?</p></article>]]></description>
-            <link>undefinedhow-to-avoid-the-income-roller-coaster/index.html</link>
+            <link>https://thegrid.ai/agentpluscoaching/how-to-avoid-the-income-roller-coaster/index.html</link>
             <guid isPermaLink="false">e77348d1-9e8f-4264-a51f-9643ce2d917b</guid>
             <pubDate>Mon, 15 Feb 2016 22:07:40 GMT</pubDate>
         </item>
