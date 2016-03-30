@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Failure Is Sexy?
-datePublished: '2016-03-30T01:53:01.643Z'
-dateModified: '2016-03-30T01:51:12.702Z'
+datePublished: '2016-03-30T02:07:10.543Z'
+dateModified: '2016-03-30T02:07:10.000Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-30-failure-is-sexy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-30-failure-is-sexy.md
-published: true
 url: failure-is-sexy/index.html
 _type: Article
 
@@ -97,6 +97,7 @@ Do you want to look troubled, worried or tired? Or would you rather look alive, 
 You get to decide.
 
 I decide---**Failure Is SEXY!!!!**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2fc9bf5-df8e-4e25-8b43-7b7b9c48ffe3.jpg)
 
 [0]: http://www.agentpluscoaching.com/blog/failure-is-sexy/
 [1]: http://www.agentpluscoaching.com/blog/author/agentcoachingstaff/ "Posts by Carla Thompson"
